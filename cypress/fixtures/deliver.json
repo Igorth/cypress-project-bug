@@ -1,0 +1,66 @@
+{
+    "signup": {
+        "name": "Igor Dias",
+        "cpf": "00000014114",
+        "email": "igor@gmail.com",
+        "whatsapp": "3199979584",
+        "address": {
+            "postalcode": "32185160",
+            "street": "Rua Felipe dos Santos",
+            "number": "140",
+            "details": "Casa",
+            "district": "Nacional",
+            "city_state": "Contagem/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpeg"
+    },
+    "cpf_incorrect": {
+        "name": "Igor Dias",
+        "cpf": "000000141AA",
+        "email": "igor@gmail.com",
+        "whatsapp": "3199979584",
+        "address": {
+            "postalcode": "32185160",
+            "street": "Rua Felipe dos Santos",
+            "number": "140",
+            "details": "Casa",
+            "district": "Nacional",
+            "city_state": "Contagem/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpeg"
+    },
+    "name_blank": {
+        "name": "",
+        "cpf": "00000014114",
+        "email": "igor@gmail.com",
+        "whatsapp": "3199979584",
+        "address": {
+            "postalcode": "32185160",
+            "street": "Rua Felipe dos Santos",
+            "number": "140",
+            "details": "Casa",
+            "district": "Nacional",
+            "city_state": "Contagem/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpeg"
+    },
+    "email_incorrect": {
+        "name": "Igor Dias",
+        "cpf": "00000014114",
+        "email": "igor.gmail.com",
+        "whatsapp": "3199979584",
+        "address": {
+            "postalcode": "32185160",
+            "street": "Rua Felipe dos Santos",
+            "number": "140",
+            "details": "Casa",
+            "district": "Nacional",
+            "city_state": "Contagem/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpeg"
+    }
+}
