@@ -4,7 +4,7 @@ The aim of the project is to understand more of the Cypress tool.
 
 We are using Cypress to automate the site [BugerEats](https://buger-eats-qa.vercel.app/).
 
-### What do we laern
+### What do we learn
 - Page Objects
 - Faker
 - Github Actions
